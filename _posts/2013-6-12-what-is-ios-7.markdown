@@ -41,7 +41,7 @@ What the \*\*\*\* is this?
 ![]({{ site.url }}/assets/images/ios-7/control-center.jpg)
 
 But weather app looks great, but we've already seen that in Yahoo Weather.
-![]({{ site.url }}/assets/images/ios-7/ios-weather)
+![]({{ site.url }}/assets/images/ios-7/ios-weather.png)
 
 Designer Leo Drapeau tried to fix iOS 7 look.
 ![]({{ site.url }}/assets/images/ios-7/redesign-ios-7-screen.jpg)
