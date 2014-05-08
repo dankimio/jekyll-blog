@@ -10,8 +10,3 @@ Hi! Welcome to my blog, this is my first post. Here I'll write about interesting
 Recently, I've decided to swtich my blog from Russian to English language, so more of visitors will be able to read my posts, also this blog will serve as a good practice for my English language skills, so there might be a lot of mistakes.
 
 Feel free to visit [about]({{ page.about }}) page for more information!
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
