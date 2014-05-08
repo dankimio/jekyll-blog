@@ -540,11 +540,16 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 /* Keep large images within the bounds of the post-width */
+/* Update max image width and height */
 .post-content img {
     display: block;
     max-width: 100%;
     margin: 0 auto;
     height: auto;
+
+
+    max-height: 500px;
+    max-width: 500px;
 }
 
 /* The author credit area after the post */
