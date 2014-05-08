@@ -33,3 +33,7 @@ img.profile {
   	border-radius: 50px;
 }
 
+.post-content img {
+	max-height: 500px;
+	max-width: 500px;
+}
