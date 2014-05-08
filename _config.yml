@@ -1,0 +1,17 @@
+# Site settings
+name: Danya Kim
+title: Blog
+email: your-email@domain.com
+description: "Web / Mobile Developer"
+baseurl: "/"
+url: "http://danyakim.com"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
+
+# Pagination
+paginate: 15
+
+# Details for the RSS feed generator
+author: Danya Kim
