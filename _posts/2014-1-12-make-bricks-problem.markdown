@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Make Bricks problem"
-date:   2014-05-08 18:00:00
 categories: blog
 ---
 
