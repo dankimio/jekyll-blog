@@ -1,9 +1,9 @@
 # Site settings
 name: Danya Kim
 title: Blog
-email: your-email@domain.com
-description: "Web / Mobile Developer"
-baseurl: "/"
+email: itsdanya@gmail.com
+description: "Coding. Startups. Ideas."
+baseurl: ""
 url: "http://danyakim.com"
 
 # Build settings
@@ -11,7 +11,7 @@ markdown: kramdown
 permalinks: pretty
 
 # Pagination
-paginate: 15
+paginate: 10
 
 # Details for the RSS feed generator
 author: Danya Kim

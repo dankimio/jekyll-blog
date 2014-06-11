@@ -37,8 +37,8 @@ archive: false
       <h5>Archive</h5>
       <ul>
         {% for post in site.posts %}
-          <li><span>{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}  
+          <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
       </ul>
     </section>
     {% endif %}
@@ -52,9 +52,9 @@ archive: false
             <!-- Author Name -->
             <h4> {{ site.author }} </h4>
             <!-- Author Bio -->
-            <p>Web applications design &amp; development, mobile app development, Ruby on Rails</p>
+            <p>Software developer (Ruby on Rails, mobile). Coding, startups, ideas.</p>
           </article>
-        </section>                
+        </section>
       {% endif %}
 
       <section class="share">

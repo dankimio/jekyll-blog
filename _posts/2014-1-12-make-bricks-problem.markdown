@@ -4,7 +4,7 @@ title:  "Make Bricks problem"
 categories: blog
 ---
 
-Recently I was solving problems at [CodingBat](http://codingbat.com/) and all problems were quite straightforward and easy to solve, but there was one that made me sit down and think for a long time, as you may have inferred from the post title it is called Make Bricks.
+Recently, I was solving problems at [CodingBat](http://codingbat.com/) and all problems were quite straightforward and easy to solve, but there was one that made me sit down and think for a long time, it is called Make Bricks.
 
 Here's the [problem](http://codingbat.com/prob/p118406):
 
