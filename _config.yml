@@ -2,7 +2,7 @@
 name: Danya Kim
 title: Blog
 email: itsdanya@gmail.com
-description: "Coding. Startups. Ideas."
+description: "Code. Startups. Ideas."
 baseurl: ""
 url: "http://danyakim.com"
 
@@ -15,3 +15,6 @@ paginate: 10
 
 # Details for the RSS feed generator
 author: Danya Kim
+
+# Style
+logo: false
