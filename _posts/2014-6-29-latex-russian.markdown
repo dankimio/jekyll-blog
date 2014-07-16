@@ -13,18 +13,13 @@ Two collections are recommended for cyrillic documents: `collection-fontsrecomme
 Now creating a document with following code will result working russian characters in output file.
 
 {% highlight latex %}
-\documentclass{article}
-\usepackage{polyglossia}
-\setmainlanguage{russian} 
-\setotherlanguage{english}
-
-\newfontfamily\russianfont[Script=Cyrillic]{Palatino}
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[russian]{babel}
 
 \begin{document}
-Привет
-\begin{english}
-Hello! 
-\end{english}
+Привет!
 \end{document}
 {% endhighlight %}
 
