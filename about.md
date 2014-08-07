@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me 
+title: About
+permalink: /about/
 ---
 
-Danya Kim.
+About page goes here.

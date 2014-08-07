@@ -1,20 +1,12 @@
 # Site settings
-name: Danya Kim
-title: Blog
-email: itsdanya@gmail.com
-description: "Code. Startups. Ideas."
+title: Danya Kim
+email:
+description: "Code, startups, ideas."
 baseurl: ""
-url: "http://danyakim.com"
+url: "http://danya.im"
+twitter_username: idanyakim
+github_username:  danyakim
 
 # Build settings
 markdown: kramdown
-permalinks: pretty
-
-# Pagination
-paginate: 10
-
-# Details for the RSS feed generator
-author: Danya Kim
-
-# Style
-logo: false
+permalink: pretty

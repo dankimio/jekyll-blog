@@ -1,3 +1,0 @@
-# Danya Kim
-
-Welcome!
