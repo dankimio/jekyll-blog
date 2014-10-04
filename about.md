@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-About page goes here.
+My name is Dan. I'm a web & mobile developer. Currently I live in Moscow.
