@@ -3,6 +3,7 @@ layout: post
 title:  "wxPython. Часть 1. Введение"
 date:   2014-08-27
 categories: blog
+published: no
 ---
 
 ## wxPython
