@@ -1,3 +1,11 @@
 .center {
   text-align: center;
 }
+
+.center img {
+  width: 100%;
+}
+
+li img {
+  width: 100%;
+}
