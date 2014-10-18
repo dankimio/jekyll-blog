@@ -10,3 +10,6 @@ github_username:  danyakim
 # Build settings
 markdown: kramdown
 permalink: /:year/:title
+
+gems:
+  - jekyll-sitemap
